@@ -8,10 +8,13 @@ Notre maison brûle. Voici ma liste de liens à propos d'actions que nous pouvon
 - [2tonnes](https://2tonnes.org/)
 - [Inventon Nos Vies Bas Carbone](https://www.resistanceclimatique.org/inventons_nos_vies_bas_carbone)
 
-## Jeux
+## Jouer
 - [Carboniq](https://www.eclap.fr/products/carboniq)
 
-## Finance
+## Investir
+- [Time for the Planet](https://time-planet.com/fr)
+
+## Placer
 - [Green got](https://green-got.com/)
 - [Helios](https://helios.do/)
 - [GoodVest](https://goodvest.fr/)
