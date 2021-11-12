@@ -7,3 +7,6 @@ Our house is on fire. Here is my list of links about actions we can all do to le
 - [Climate Fresk](https://climatefresk.org/)
 - [2tons](https://en.2tonnes.org/)
 - [EN Roads Simulator](https://www.climateinteractive.org/tools/climate-action-simulation/)
+
+# Invest
+- [Time for the Planet](https://time-planet.com/en)
